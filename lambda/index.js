@@ -80,7 +80,7 @@ const extraHintIntent = {
         
         return handlerInput.responseBuilder
             .speak(speakOut)
-            .withSimpleCard("cinemania", speakOut)
+            //.withSimpleCard("cinemania", speakOut)
             .reprompt(speakRepromt)
             .getResponse();
     }
@@ -153,7 +153,7 @@ const solveMovieIntent = {
     
         return handlerInput.responseBuilder
             .speak(speakOut)
-            .withSimpleCard("cinemania", speakOut)
+            //.withSimpleCard("cinemania", speakOut)
             .reprompt(speakRepromt)
             .withShouldEndSession(isGameOver)
             .getResponse();
