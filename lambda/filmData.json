@@ -1,0 +1,455 @@
+{ 
+    "movies":
+    [
+      {
+        "movie": 
+        {
+          "id": "1",
+          "title": "Camino",
+          "director": "Javier Fesser",
+          "genre": "drama",
+          "year": "2008",
+          "hints":
+          [
+            "La actriz protagonista es Nerea Camacho",
+            "En la película aparecen Carme Elias y Mariano Venancio",
+            "En la película, una preciosa y dulce niña de once años, vive sus últimos momentos en la habitación de un hospital",
+            "La película está inspirada en hechos reales",
+            "Ha ganado 6 premios Goya, un premio Gaudí y un premio Forqué"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "2",
+          "title": "Intacto",
+          "director": "Juan Carlos Fresnadillo",
+          "genre": "drama",
+          "year": "2001",
+          "hints":
+          [
+            "El actor protagonista es Max von Sydow",
+            "En la película actúan Eusebio Poncela y Leonardo Sbaraglia",
+            "El protagonista es el único superviviente de un accidente de avión",
+            "El antagonista de la película tiene el don de arrebatar la suerte a las personas",
+            "Ganó 2 Goyas, al mejor director nóvel y mejor actor revelación"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "3",
+          "title": "Gordos",
+          "director": "Daniel Sánchez Arévalo",
+          "genre": "comedia",
+          "year": "2009",
+          "hints":
+          [
+            "Una de las actrices protagonistas es Verónica Sánchez",
+            "En la película aparecen Roberto Enríquez y Antonio de la Torre",
+            "La historia central versa en torno a una terapia de grupo",
+            "Los complejos, las fobias, los traumas, las metas, los retos y las relaciones se dan cita en esta cinta",
+            "Ganó un Goya al mejor actor de reparto"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "4",
+          "title": "Primos",
+          "director": "Daniel Sánchez Arévalo",
+          "genre": "comedia",
+          "year": "2011",
+          "hints":
+          [
+            "Uno de los actores protagonista es Quim Gutiérrez",
+            "En la película actúan Inma Cuesta y Raúl Arévalo",
+            "Al protagonista de la película le deja su novia cinco días antes de su boda",
+            "El transfondo de la cinta lo ponen las fiestas del pueblo de Comillas, donde veraneaban de pequeños los protagonistas",
+            "Tuvo dos nominaciones en los premios Goya y otra nominación en los premios Forqué"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "5",
+          "title": "El Lobo",
+          "director": "Miguel Courtois",
+          "genre": "thriller",
+          "year": "2004",
+          "hints":
+          [
+            "El actor protagonista es Eduardo Noriega",
+            "En la película aparecen José Coronado y Mélanie Doutey",
+            "La cinta, basada en hechos reales, trata de representar cómo un agente de los servicios secretos españoles trata de infiltrarse en una conocida organización terrorista y consiguió ponerla de rodillas",
+            "Con el pedazo de actor que la protagoniza, ¡tengo que verla otra vez!",
+            "Es un thriller muy potente, didáctica, huye de la autocomplaciencia y ayuda a conocer un capítulo olvidado de la historia de España"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "6",
+          "title": "Barrio",
+          "director": "Fernando León de Aranoa",
+          "genre": "drama",
+          "year": "1998",
+          "hints":
+          [
+            "El actor protagonista es Críspulo Cabezas",
+            "En la película actúan Timy Benito y Eloi Yebra",
+            "Unos amigos de instituto, agosto y muchas horas por delante en las calles del sur de una gran ciudad",
+            "Los protagonistas aparcan una moto acuática en el portal de la casa de uno de ellos",
+            "Ganó una Concha de Plata, tres premios Goya y un premio Forqué"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "7",
+          "title": "Orgullo",
+          "director": "Manuel Mur Oti",
+          "genre": "drama",
+          "year": "1955",
+          "hints":
+          [
+            "El actor protagonista es Xan das Bolas",
+            "En la película aparecen Eduardo Calvo y Arturo Castro",
+            "Mmmmmm, esta película no sé muy bien de qué va, aún la tengo que ver",
+            "De verdad, no se de qué va, ¡vaya par de desarrolladores incompetentes!",
+            "El título casi acaba con, y prejuicio"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "8",
+          "title": "Tésis",
+          "director": "Alejandro Amenábar",
+          "genre": "thriller",
+          "year": "1996",
+          "hints":
+          [
+            "La actriz protagonista es Ana Torrent",
+            "En la película actúan Fele Martínez y Eduardo Noriega",
+            "La facultad Complutense es el telón de fondo de esta fantástica película de bajo presupuesto",
+            "La cinta, uno de sus primeros trabajos, puso al director en boca de todos",
+            "Ganó 7 premios Goya y un premio Forqué"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "9",
+          "title": "Ágora",
+          "director": "Alejandro Amenábar",
+          "genre": "aventura",
+          "year": "2009",
+          "hints":
+          [
+            "La actriz protagonista es Rachel Weisz",
+            "En la película aparecen Max Minghella y Oscar Isaac",
+            "Está ambientada en el Egipto del siglo cuarto, provincia del imperio romano",
+            "Un incendio en una gran librería supone el drama que da pie a la cinta",
+            "Ganó 7 premios Goya, de las 13 nominaciones que tuvo"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "10",
+          "title": "Furtivos",
+          "director": "José Luis Borau",
+          "genre": "drama",
+          "year": "1975",
+          "hints":
+          [
+            "La actriz protagonista es Lola Gaos",
+            "En la película actúan Ovidi Montllor y Alicia Sánchez",
+            "Los protagonistas son un cazador furtivo que vive en un bosque con su madre, una mujer tiránica y violenta",
+            "La relación entre el ligue del protagonista y su madre desembocan en un drama",
+            "Ganó la Concha de Oro en el festival de San Sebastian"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "11",
+          "title": "El Bola",
+          "director": "Achero Mañas",
+          "genre": "drama",
+          "year": "2000",
+          "hints":
+          [
+            "El actor protagonista es Juan José Ballesta",
+            "En la película aparecen Pablo Galán y Alberto Jiménez",
+            "El protagonista, un chico de 12 años que vive en una atmósfera violenta y sórdida, es incapaz de relacionarse con otros chicos",
+            "Una amistad ofrece al protagonista la posibilidad de renovar su situación familiar, y aceptarla como parte suya",
+            "Ganó 4 Goyas y un premio Forqué"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "12",
+          "title": "Isi Disi Amor a lo bestia",
+          "director": "Chema de la Peña",
+          "genre": "comedia",
+          "year": "2004",
+          "hints":
+          [
+            "Uno de los actores protagonistas es Florentino Fernández",
+            "En la película actúan Santiago Segura y Jaydy Michel",
+            "Los dos actores que interpretan a los carismáticos protagonistas son dos conocidos humoristas, aún en activo, del panorama Español",
+            "El guión caricaturiza a los protagonistas que imitan a un conocido grupo de rock australiano",
+            "Aunque parezca increíble, tuvo dos nominaciones a los premios Goya"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "13",
+          "title": "Madrid 1987",
+          "director": "David Trueba",
+          "genre": "drama",
+          "year": "2011",
+          "hints":
+          [
+            "El actor protagonista es José Sacristán",
+            "En la película aparecen María Valverde y Ramón Fontseré",
+            "Los protagonistas son un veterano y temido articulista, y una joven estudiante universitaria",
+            "La cinta representa un enfrentamiento  generacional dentro de un baño con poca ropa de por medio",
+            "Ganó un premio Forqué al mejor actor"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "14",
+          "title": "El cuerpo",
+          "director": "Oriol Paulo",
+          "genre": "misterio",
+          "year": "2012",
+          "hints":
+          [
+            "El actor protagonista es José Coronado",
+            "En la película actúan Hugo Silva y Belén Rueda",
+            "En el depósito de cadáveres, la policía descubre que la puerta de una cámara está abierta y el cadáver de una mujer ha desaparecido",
+            "La película supone el debut en la dirección de su guionista",
+            "La cinta obtuvo 5 nominaciones, entre premios Goya, premios Forqué y premios Gaudí"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "15",
+          "title": "La Colmena",
+          "director": "Mario Camus",
+          "genre": "drama",
+          "year": "1982",
+          "hints":
+          [
+            "La actriz protagonista es Victoria Abril",
+            "En la película aparecen Ana Belén y Concha Velasco",
+            "Cuando se estrenó, causó un gran revuelo por sus escenas subidas de tono en una sociedad española en pleno destape",
+            "Basada en una novela de Camilo José Cela... aunque no se si eso es bueno",
+            "Ganó el Oso de Oro en el festival de Berlín"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "16",
+          "title": "El Orfanato",
+          "director": "Juan Antonio Bayona",
+          "genre": "horror",
+          "year": "2007",
+          "hints":
+          [
+            "La actriz protagonista es Belén Rueda",
+            "En la película actúan Fernando Cayo y Roger Príncep",
+            "Una mujer y su hijo se instalan en un lúgubre y decrépito caserón con esqueletos en los armarios",
+            "La cinta supuso el debut por todo lo alto de su director",
+            "Ganó 7 premios Goya y un premio Forqué, además de numerosas nominaciones en varios festivales y asociaciones"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "17",
+          "title": "800 Balas",
+          "director": "Álex de la Iglesia",
+          "genre": "acción",
+          "year": "2002",
+          "hints":
+          [
+            "El actor protagonista es Sancho Gracia",
+            "En la película aparecen Ángel de Andrés López y Carmen Maura",
+            "Almería, desierto de Tabernas, año 2002",
+            "Las heridas mal cicatrizadas se combinan con la especulación inmobiliaria en una tormenta tragicómica de impresivibles",
+            "La cinta ganó un premio Goya a los mejores efectos especiales"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "18",
+          "title": "Entre las Piernas",
+          "director": "Manuel Gómez Pereira",
+          "genre": "drama",
+          "year": "1999",
+          "hints":
+          [
+            "La actriz protagonista es Victoria Abril",
+            "En la película actúan Javier Bardem y Carmelo Gómez",
+            "Un guionista que acude a una terapia para adictos al sexo conoce a una locutora de radio",
+            "La cinta presenta una vertiginosa historia de crimen y sexo que recibio críticas mezcladas en su época",
+            "No ganó ningún Goya, supongo que por la poca cohesión de la que adolecía el guión"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "19",
+          "title": "Celda 211",
+          "director": "Daniel Monzón",
+          "genre": "acción",
+          "year": "2009",
+          "hints":
+          [
+            "El actor protagonista es Luis Tosar",
+            "En la película aparecen Alberto Ammann y Antonio Resines",
+            "Un funcionario de prisiones se ve atrapado en un motín carcelario",
+            "Violencia, drama, tensión y suspense hasta el final de una cinta que supuso el despegue al estrellato de uno de sus actores más carismáticos",
+            "Ganó 8 premios Goya y dos premios Forqué"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "20",
+          "title": "El método",
+          "director": "Marcelo Piñeyro",
+          "genre": "drama",
+          "year": "2005",
+          "hints":
+          [
+            "Uno de los actores protagonistas es Eduardo Noriega",
+            "En la película actúan Najwa Nimri y Eduard Fernández",
+            "Siete aspirantes a un puesto ejecutivo se presentan a la prueba de selección de una empresa multinacional, situada en un rascacielos de Madrid",
+            "La atmósfera claustrofóbica de la localización de la cinta pone de manifiesto la falta de escrúpulos de los protagonistas",
+            "Adaptación cinematográfica de una exitosa obra teatral de Jordi Galcerán, autor que, por cierto, declaró que el film no tiene nada que ver con su obra de teatro, más inclinada a la comedia que al drama"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "21",
+          "title": "Marcelino Pan y Vino",
+          "director": "Ladislao Vajda",
+          "genre": "drama",
+          "year": "1955",
+          "hints":
+          [
+            "El actor protagonista es Rafael Rivelles",
+            "En la película aparecen Antonio Vico y Juan Calvo",
+            "Después de una larga guerra, un bebé es abandonado a la puerta de un convento de frailes franciscanos que intentan, sin éxito, buscarle una familia",
+            "La cinta fue un éxito en taquilla, con gran impacto en una sociedad española muy involucrada en las creencias religiosas",
+            "Recibió un Oso de Plata en el festival de Berlín"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "22",
+          "title": "La Mala Educación",
+          "director": "Pedro Almodóvar",
+          "genre": "thriller",
+          "year": "2004",
+          "hints":
+          [
+            "El actor protagonista es Gael García Bernal",
+            "En la película actúan Fele Martínez y Javier Cámara",
+            "A principios de los años 60, Ignacio y Enrique, conocen el amor, el cine y el miedo en un colegio religioso",
+            "Tras el paso de los años, los protagonistas se convierten en un travestido que aspira a ser actor y en un reputado director de cine respectivamente",
+            "La cinta es un melodrama de cine negro desconcertante y arrebatador, con varias capas de confusión y contradicción que muestra a su director en su momento más maduro y pesimista"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "23",
+          "title": "Mar adentro",
+          "director": "Alejandro Amenábar",
+          "genre": "drama",
+          "year": "2004",
+          "hints":
+          [
+            "El actor protagonista es Javier Bardem",
+            "En la película aparecen Belén Rueda y Lola Dueñas",
+            "Tras casi 30 años postrado en una cama al cuidado de su familia, el protagonista de la cinta decide dar un cambio a su vida",
+            "El argumento de la película genera un intenso debate en la sociedad, con opiniones fuertemente divididas",
+            "De la película, basada en hechos reales, la crítica dijo: Es hermosa, excepcional, inteligente y narrativamente muy hábil"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "24",
+          "title": "El bosque animado",
+          "director": "José Luis Cuerda",
+          "genre": "comedia",
+          "year": "1987",
+          "hints":
+          [
+            "El actor protagonista es Alfredo Landa",
+            "En la película actúan Alejandra Grepi y Tito Valverde",
+            "Mmmmmm, esta película no sé muy bien de qué va, aún la tengo que ver. ¡Pídeme una pista!",
+            "Un bandido, un pocero, una niña que trabaja, un chico que no quiere trabajar, una muchacha que emigra y un fantasma que busca compañía... ¡qué jaleo!",
+            "Ganó 5 premios Goya"
+          ]
+        }
+      },
+      {
+        "movie":
+        {
+          "id": "25",
+          "title": "Los cronocrímenes",
+          "director": "Nacho Vigalondo",
+          "genre": "horror",
+          "year": "2007",
+          "hints":
+          [
+            "El actor protagonista es Karra Elejalde",
+            "En la película aparecen Candela Fernández y Bárbara Goenaga",
+            "Un hombre descubre a través de sus prismáticos a una preciosa joven e intenta encontrarla en la profunidad del bosque",
+            "La cinta tuvo algunas opiniones encontradas, pese a la mayor parte de críticas positivas. No sé. ¡A mi me gusta mucho!",
+            "Desconocida por una gran parte del público pese a sus bondades y el interesante argumento que despliega (viajes en el tiempo) enfocado desde una novedosa perspectiva"
+          ]
+        }
+      }
+    ]
+  }

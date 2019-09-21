@@ -1,0 +1,83 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "cine mania",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "necesito ayuda",
+                        "ayudame"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "no más películas",
+                        "no quiero más películas",
+                        "cerrar skill",
+                        "cerrar aplicación",
+                        "no quiero más",
+                        "ya es suficiente",
+                        "parar",
+                        "cerrar",
+                        "cierra juego",
+                        "adiós",
+                        "se acabó",
+                        "me rindo",
+                        "basta ya",
+                        "no quiero jugar"
+                    ]
+                },
+                {
+                    "name": "solveMovieIntent",
+                    "slots": [
+                        {
+                            "name": "movieName",
+                            "type": "AMAZON.Movie"
+                        }
+                    ],
+                    "samples": [
+                        "De pronto es {movieName}",
+                        "Seguro que es {movieName}",
+                        "Es {movieName}",
+                        "Puede ser {movieName}",
+                        "Imagino que es {movieName}",
+                        "Imagino que {movieName}",
+                        "Creo que {movieName}",
+                        "Creo que es {movieName}",
+                        "Película {movieName}",
+                        "La película  {movieName}",
+                        "La película es {movieName}",
+                        "{movieName}"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "extraHintIntent",
+                    "slots": [],
+                    "samples": [
+                        "me aburro",
+                        "qué es esto",
+                        "no lo sé",
+                        "necesito pistas",
+                        "necesito pista",
+                        "más pistas",
+                        "necesito una pista",
+                        "pista",
+                        "quiero una pista",
+                        "dame una pista"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
